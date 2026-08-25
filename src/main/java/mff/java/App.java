@@ -17,7 +17,7 @@ import java.nio.file.Paths;
  * JavaFX App
  */
 public class App extends Application {
-
+//dav gamle
     private static Scene scene;
     private static final int minWidth = 1280;
     private static final int minHeight = 720;
